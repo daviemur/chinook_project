@@ -1,0 +1,11 @@
+Designator,Quantity,Manufacturer Part Number,Manufacturer,Description,Package
+XT60-M,3,XT60-M,AMASS,High-Current 3-Phase Terminals,SMD
+Thermal-Pad,1,Custom 130mm,Generic,1mm Silicone Thermal Pad (130mm Circular),Custom
+Q1-Q6,6,IRFB3607PBF,Infineon,MOSFET N-CH 75V 80A,TO-220
+U1,1,DRV8302,Texas Instruments,3-Phase Gate Driver IC,HTSSOP-56
+U2,1,ADS1115,Texas Instruments,16-bit ADC for SHM,VSSOP-10
+U3-U6,4,AD8226ARMZ,Analog Devices,Instrumentation Amp for Stress Monitoring,MSOP-8
+U7,1,BME280,Bosch,Environmental Weather Module,LGA-8
+R1-R50,50,RT0805BRD07100RL,Yageo,Precision Resistor 100R 0.1% 25ppm,0805
+J1,1,Generic 0.5mm 10-pin,Generic,Inter-Board Header Link,FPC/FFC
+PCB,1,Chinook-Stator-V1.0,PCBWay,130mm Axial Flux Stator PCB (4oz Copper),Custom
